@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Real Time Ray Tracer", "Real Time Ray Tracer\Real Time Ray Tracer.vcxproj", "{A5DBC60E-EB36-49A8-BE50-9D5D66BF4D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5DBC60E-EB36-49A8-BE50-9D5D66BF4D4D}.Debug|x64.ActiveCfg = Debug|x64
+		{A5DBC60E-EB36-49A8-BE50-9D5D66BF4D4D}.Debug|x64.Build.0 = Debug|x64
+		{A5DBC60E-EB36-49A8-BE50-9D5D66BF4D4D}.Release|x64.ActiveCfg = Release|x64
+		{A5DBC60E-EB36-49A8-BE50-9D5D66BF4D4D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A83EAAD4-2D6A-49E6-B714-9288FDD05273}
+	EndGlobalSection
+EndGlobal
